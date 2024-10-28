@@ -1,0 +1,9 @@
+Duality App!
+
+main goal:
+- jot down good and bad moments in a day
+- tracks time, importable to gcal
+
+onward:
+- rank moments out of a colour gradient
+- include other notes (gratitude, thoughts, journaling)
